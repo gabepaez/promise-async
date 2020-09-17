@@ -18,7 +18,7 @@
     "promise"
   ],
   "dependencies": {
-    "async": "~1.5.2",
+    "async": "~3.2.0",
     "pify": "~2.3.0"
   },
   "devDependencies": {
